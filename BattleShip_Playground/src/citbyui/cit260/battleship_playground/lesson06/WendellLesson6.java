@@ -1,4 +1,4 @@
-package battleship_playground;
+package citbyui.cit260.battleship_playground.lesson06;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

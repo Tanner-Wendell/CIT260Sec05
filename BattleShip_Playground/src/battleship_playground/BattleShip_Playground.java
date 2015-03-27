@@ -5,9 +5,11 @@
  */
 package battleship_playground;
 
+import citbyui.cit260.battleship_playground.lesson06.WendellLesson6;
 import citbyui.cit260.battleship_playground.lesson09.Grasshopper;
 import citbyui.cit260.battleship_playground.lesson09.Ladybug;
 import citbyui.cit260.battleship_playground.lesson09.Insect;
+import citbyui.cit260.battleship_playground.lesson11.Lesson11;
 import java.util.Scanner;
 
 /**
@@ -31,6 +33,10 @@ public class BattleShip_Playground {
         BattleShip_Playground myGame = new BattleShip_Playground();
         //myGame.getName();
         //myGame.displayHelp();
+        
+        //Lesson 11
+        Lesson11 lessElev = new Lesson11();
+        lessElev.displayExcepExamp();
         
         List shipDetail = new List();
         shipDetail.myList();
